@@ -1,0 +1,24 @@
+/* change zebra class to red font with blue background */
+
+.zebra {
+  color: red;
+  background: blue;
+}
+
+/* make the Koala class have a grey background */
+
+.koala {
+  background: grey;
+}
+
+/* make the Panda class have a yellow background */
+
+.panda {
+  background: yellow;
+}
+
+/* Change the font of the strange class to something strange. */
+
+.strange {
+  font-family: Papyrus,fantasy;
+}
